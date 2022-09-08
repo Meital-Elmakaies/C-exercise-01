@@ -2,6 +2,7 @@
 (*) Practice writing a program in #C syntax . (*) Work with I/O in the Console environment. (*) Introduction to the classes: string, int, float, char, math, StringBuilder.
 
 ----------------------EX1. Binary series -----------------------
+
 Write a program that receives from the user 3 numbers in binary format of 9 digits each.
 After each number, the user presses enter (invalid input will be reported to the user as invalid and the program will wait for valid input).
 The program will convert the entered numbers into decimal numbers and print them in decimal format.
@@ -21,6 +22,7 @@ c.)101111110, 110001111, 011010110.
 
 
 ------------------------ EX2. Hourglass for beginners--------------------
+
 Write a program that prints an hourglass of stars to the screen as follows:
 *****
 ***
@@ -31,6 +33,7 @@ must be realized with the help of recursion.
 
 
 -------------------------EX3. Hourglass for advanced students----------------------------------
+
 Write a program that will work like the hourglass program for beginners, but will accept the requested height of the clock as input
 from the user (the user must be warned about incorrect input!).
 (Try to realize this by referring to the assembly you created in section 2 (Hourglass for beginners) by adding
@@ -40,6 +43,7 @@ Run examples must be provided on the inputs: 4, 5, 6, 7
 
 
 ----------------------EX4. Parsing a string---------------------------------------
+
 5. Write a program that accepts as input a string of size 8 characters (for example: abaccaba) and provides the following details:
 1. Is the string a palindrome (must be realized with the help of recursion)
 2. If it is a number - is it divisible by 4 without a remainder.
@@ -50,6 +54,7 @@ Strings such as ab45abr6 are invalid. Note that uppercase letters are considered
 
 
 -------------------------------EX6. Statistics numbers-------------------------------
+
 Write a program that accepts a positive 9-digit whole number from the user and provides the following details:
 1. What is the largest digit in the number
 2. What is the average of the digits
